@@ -24,9 +24,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" height="25" />](https://www.sqlite.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Turso-282C34?logo=turso&logoColor=4FF8D2" alt="Turso" height="25" />](https://turso.tech/)
-&nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="25" />](https://www.postgresql.org/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Turso-282C34?logo=turso&logoColor=4FF8D2" alt="Turso" height="25" />](https://turso.tech/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3FCF8E" alt="Supabase" height="25" />](https://supabase.com/)
 &nbsp;
