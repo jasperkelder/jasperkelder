@@ -28,11 +28,11 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Turso-282C34?logo=turso&logoColor=4FF8D2" alt="Turso" height="25" />](https://turso.tech/)
 &nbsp;
+[<img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare&logoColor=F38020" alt="Cloudflare" height="25" />](https://www.cloudflare.com/)
+&nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="25" />](https://www.postgresql.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3FCF8E" alt="Supabase" height="25" />](https://supabase.com/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare&logoColor=F38020" alt="Cloudflare" height="25" />](https://www.cloudflare.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
 &nbsp;
