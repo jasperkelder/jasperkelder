@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML" height="25" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS3" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
@@ -20,7 +20,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FCEFDF" alt="Bun" height="25" />](https://bun.sh/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=FFF" alt="Sass" height="25" />](https://sass-lang.com/)
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=1572B6" alt="Sass" height="25" />](https://sass-lang.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Drizzle-282C34?logo=drizzle&logoColor=C5F74F" alt="Drizzle" height="25" />](https://orm.drizzle.team/)
 &nbsp;
