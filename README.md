@@ -20,7 +20,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FCEFDF" alt="Bun" height="25" />](https://bun.sh/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=1572B6" alt="Sass" height="25" />](https://sass-lang.com/)
+[<img src="https://img.shields.io/badge/SCSS-282C34?logo=sass&logoColor=1572B6" alt="Sass" height="25" />](https://sass-lang.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Drizzle-282C34?logo=drizzle&logoColor=C5F74F" alt="Drizzle" height="25" />](https://orm.drizzle.team/)
 &nbsp;
