@@ -18,7 +18,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest" height="25" />](https://vitest.dev/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=1572B6" alt="Sass" height="25" />](https://sass-lang.com/)
+[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=FFF" alt="Sass" height="25" />](https://sass-lang.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FCEFDF" alt="Bun" height="25" />](https://bun.sh/)
 &nbsp;
