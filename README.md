@@ -10,6 +10,8 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte" height="25" />](https://svelte.dev/)
 &nbsp;
+[<img src="https://img.shields.io/badge/SvelteKit-282C34?logo=svelte&logoColor=FF3E00" alt="SvelteKit" height="25" />](https://kit.svelte.dev/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js" height="25" />](https://nodejs.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite" height="25" />](https://vitejs.dev/)
