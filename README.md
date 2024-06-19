@@ -73,7 +73,6 @@
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" />](https://www.mongodb.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" height="25" />](https://www.mysql.com/)
-&nbsp;
 
 ## I'm interested in
 
@@ -88,10 +87,13 @@
 [<img src="https://img.shields.io/badge/HTMX-282C34?logo=htmx&logoColor=3366CC" alt="HTMX" height="25" />](https://htmx.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0131" alt="Angular" height="25" />](https://angular.io/)
-&nbsp;
 
 ## I'm reachable at
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="25" />](https://www.linkedin.com/in/jasperkelder/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Kelder.dev-282C34?logo=keras&logoColor=FFDF8A" alt="Kelder.dev" height="25" />](https://kelder.dev/)
+
+## I'm working on
+
+[<img src="https://img.shields.io/badge/Schep.app-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte" height="25" />](https://schep.app/)
