@@ -74,6 +74,10 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" height="25" />](https://www.mysql.com/)
 
+## I'm working on
+
+[<img src="https://img.shields.io/badge/Schep.app-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte" height="25" />](https://schep.app/)
+
 ## I'm interested in
 
 [<img src="https://img.shields.io/badge/Tauri-282C34?logo=tauri&logoColor=24C8D8" alt="Tauri" height="25" />](https://tauri.app/)
@@ -93,7 +97,3 @@
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="25" />](https://www.linkedin.com/in/jasperkelder/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Kelder.dev-282C34?logo=keras&logoColor=FFDF8A" alt="Kelder.dev" height="25" />](https://kelder.dev/)
-
-## I'm working on
-
-[<img src="https://img.shields.io/badge/Schep.app-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte" height="25" />](https://schep.app/)
