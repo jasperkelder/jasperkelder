@@ -80,11 +80,7 @@
 
 [<img src="https://img.shields.io/badge/Tauri-282C34?logo=tauri&logoColor=24C8D8" alt="Tauri" height="25" />](https://tauri.app/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" alt="Go" height="25" />](https://go.dev/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=FFF" alt="Rust" height="25" />](https://www.rust-lang.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=A8B9CC" alt="C#" height="25" />](https://dotnet.microsoft.com/en-us/languages/csharp)
 &nbsp;
 [<img src="https://img.shields.io/badge/HTMX-282C34?logo=htmx&logoColor=3366CC" alt="HTMX" height="25" />](https://htmx.org/)
 
