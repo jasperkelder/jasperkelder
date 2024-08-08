@@ -8,6 +8,12 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript" height="25" />](https://www.typescriptlang.org/)
 &nbsp;
+[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=f89820" alt="Java" height="25" />](https://www.java.com/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring" height="25" />](https://spring.io/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0131" alt="Angular" height="25" />](https://angular.io/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Svelte-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte" height="25" />](https://svelte.dev/)
 &nbsp;
 [<img src="https://img.shields.io/badge/SvelteKit-282C34?logo=svelte&logoColor=FF3E00" alt="SvelteKit" height="25" />](https://kit.svelte.dev/)
@@ -40,8 +46,6 @@
 
 ## I've worked with
 
-[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=f89820" alt="Java" height="25" />](https://www.java.com/)
-&nbsp;
 [<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP" height="25" />](https://www.php.net/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" height="25" />](https://www.python.org/)
@@ -58,8 +62,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" height="25" />](https://tailwindcss.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=6DB33F" alt="Spring" height="25" />](https://spring.io/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel" height="25" />](https://laravel.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=FFF" alt="Django" height="25" />](https://www.djangoproject.com/)
@@ -74,10 +76,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" height="25" />](https://www.mysql.com/)
 
-## I'm working on
-
-[<img src="https://img.shields.io/badge/Schep.app-282C34?logo=svelte&logoColor=FF3E00" alt="Svelte" height="25" />](https://schep.app/)
-
 ## I'm interested in
 
 [<img src="https://img.shields.io/badge/Tauri-282C34?logo=tauri&logoColor=24C8D8" alt="Tauri" height="25" />](https://tauri.app/)
@@ -89,8 +87,6 @@
 [<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=A8B9CC" alt="C#" height="25" />](https://dotnet.microsoft.com/en-us/languages/csharp)
 &nbsp;
 [<img src="https://img.shields.io/badge/HTMX-282C34?logo=htmx&logoColor=3366CC" alt="HTMX" height="25" />](https://htmx.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=DD0131" alt="Angular" height="25" />](https://angular.io/)
 
 ## I'm reachable at
 
