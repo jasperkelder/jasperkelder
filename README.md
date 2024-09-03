@@ -28,9 +28,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Drizzle-282C34?logo=drizzle&logoColor=C5F74F" alt="Drizzle" height="25" />](https://orm.drizzle.team/)
 &nbsp;
-[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="25" />](https://www.postgresql.org/)
-&nbsp;
 [<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" height="25" />](https://www.sqlite.org/)
+&nbsp;
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="25" />](https://www.postgresql.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" />](https://git-scm.com/)
 
@@ -46,9 +46,9 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery" height="25" />](https://jquery.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" />](https://getbootstrap.com/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" height="25" />](https://tailwindcss.com/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" />](https://getbootstrap.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel" height="25" />](https://laravel.com/)
 &nbsp;
