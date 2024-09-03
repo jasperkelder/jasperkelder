@@ -22,25 +22,15 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite" height="25" />](https://vitejs.dev/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest&logoColor=6E9F18" alt="Vitest" height="25" />](https://vitest.dev/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FCEFDF" alt="Bun" height="25" />](https://bun.sh/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=1572B6" alt="Sass" height="25" />](https://sass-lang.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Drizzle-282C34?logo=drizzle&logoColor=C5F74F" alt="Drizzle" height="25" />](https://orm.drizzle.team/)
 &nbsp;
-[<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" height="25" />](https://www.sqlite.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Turso-282C34?logo=turso&logoColor=4FF8D2" alt="Turso" height="25" />](https://turso.tech/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare&logoColor=F38020" alt="Cloudflare" height="25" />](https://www.cloudflare.com/)
-&nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="25" />](https://www.postgresql.org/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Supabase-282C34?logo=supabase&logoColor=3FCF8E" alt="Supabase" height="25" />](https://supabase.com/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/SQLite-282C34?logo=sqlite&logoColor=003B57" alt="SQLite" height="25" />](https://www.sqlite.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" />](https://git-scm.com/)
 
@@ -75,14 +65,8 @@
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" />](https://www.mongodb.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" height="25" />](https://www.mysql.com/)
-
-## I'm interested in
-
-[<img src="https://img.shields.io/badge/Tauri-282C34?logo=tauri&logoColor=24C8D8" alt="Tauri" height="25" />](https://tauri.app/)
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=FFF" alt="Rust" height="25" />](https://www.rust-lang.org/)
-&nbsp;
-[<img src="https://img.shields.io/badge/HTMX-282C34?logo=htmx&logoColor=3366CC" alt="HTMX" height="25" />](https://htmx.org/)
 
 ## I'm reachable at
 
