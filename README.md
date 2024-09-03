@@ -46,8 +46,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=0769AD" alt="jQuery" height="25" />](https://jquery.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Alpine.js-282C34?logo=alpinedotjs&logoColor=8BC0D0" alt="Alpine.js" height="25" />](https://alpinejs.dev/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap" height="25" />](https://getbootstrap.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind" height="25" />](https://tailwindcss.com/)
@@ -65,6 +63,7 @@
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" height="25" />](https://www.mongodb.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" height="25" />](https://www.mysql.com/)
+&nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
 &nbsp;
 
