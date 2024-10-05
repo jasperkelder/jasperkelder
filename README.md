@@ -66,9 +66,3 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
 &nbsp;
-
-## I'm reachable at
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" height="25" />](https://www.linkedin.com/in/jasperkelder/)
-&nbsp;
-[<img src="https://img.shields.io/badge/Kelder.dev-282C34?logo=keras&logoColor=FFDF8A" alt="Kelder.dev" height="25" />](https://kelder.dev/)
