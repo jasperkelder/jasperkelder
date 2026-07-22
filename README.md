@@ -2,7 +2,7 @@
 
 [<img src="https://img.shields.io/badge/HTML-282C34?logo=html5&logoColor=E34F26" alt="HTML" height="25" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 &nbsp;
-[<img src="https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6" alt="CSS" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=1572B6" alt="CSS" height="25" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="25" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 &nbsp;
@@ -22,8 +22,6 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=646CFF" alt="Vite" height="25" />](https://vitejs.dev/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FCEFDF" alt="Bun" height="25" />](https://bun.sh/)
-&nbsp;
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=1572B6" alt="Sass" height="25" />](https://sass-lang.com/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Drizzle-282C34?logo=drizzle&logoColor=C5F74F" alt="Drizzle" height="25" />](https://orm.drizzle.team/)
@@ -33,6 +31,8 @@
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL" height="25" />](https://www.postgresql.org/)
 &nbsp;
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" height="25" />](https://git-scm.com/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
 
 ## I've worked with
 
@@ -56,7 +56,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" alt="WordPress" height="25" />](https://wordpress.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Magento-282C34?logo=magento&logoColor=EE672F" alt="Magento" height="25" />](https://business.adobe.com/products/magento/magento-commerce.html)
+[<img src="https://img.shields.io/badge/Magento-282C34?logo=mcdonalds&logoColor=EE672F" alt="Magento" height="25" />](https://business.adobe.com/products/commerce.html)
 &nbsp;
 [<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=FFF" alt="Prisma" height="25" />](https://www.prisma.io/)
 &nbsp;
@@ -64,5 +64,5 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL" height="25" />](https://www.mysql.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker" height="25" />](https://www.docker.com/)
+[<img src="https://img.shields.io/badge/Bun-282C34?logo=bun&logoColor=FCEFDF" alt="Bun" height="25" />](https://bun.sh/)
 &nbsp;
