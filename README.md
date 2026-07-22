@@ -56,7 +56,7 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/WordPress-282C34?logo=wordpress&logoColor=21759B" alt="WordPress" height="25" />](https://wordpress.com/)
 &nbsp;
-[<img src="https://img.shields.io/badge/Magento-282C34?logo=mcdonalds&logoColor=EE672F" alt="Magento" height="25" />](https://business.adobe.com/products/commerce.html)
+[<img src="https://img.shields.io/badge/Magento-282C34?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0VFNjcyRiIgZD0iTTEyIDI0bC00LjQ1NS0yLjU3MnYtMTJsMi45Ny0xLjcxNXYxMi4wMDFsMS40ODUuOTAyIDEuNDg1LS45MDJWNy43MTNsMi45NzEgMS43MTV2MTJMMTIgMjR6TTIyLjM5MSA2djEybC0yLjk2OSAxLjcxNFY3LjcxM0wxMiAzLjQzIDQuNTc0IDcuNzEzdjEyLjAwMUwxLjYwOSAxOFY2TDEyIDBsMTAuMzkxIDZ6Ii8%2BPC9zdmc%2B" alt="Magento" height="25" />](https://business.adobe.com/products/commerce/magento.html)
 &nbsp;
 [<img src="https://img.shields.io/badge/Prisma-282C34?logo=prisma&logoColor=FFF" alt="Prisma" height="25" />](https://www.prisma.io/)
 &nbsp;
